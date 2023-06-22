@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,www.googleapis.com
 DOMAIN-SUFFIX,peoplestack-pa.googleapis.com
 DOMAIN-SUFFIX,mtalk.google.com
 DOMAIN-SUFFIX,people-pa.googleapis.com
+DOMAIN-KEYWORD,peoplestack-pa.clients6.google.com
+DOMAIN-KEYWORD,voice.clients6.google.com
+DOMAIN-KEYWORD,signaler-pa.clients6.google.com
