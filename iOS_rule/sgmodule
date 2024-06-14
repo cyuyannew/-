@@ -1,9 +1,0 @@
-#去广告ad
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
-#阿里doh
-https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/DoH/Moore/Ali-DoH.sgmodule
-#b站
-https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili.module
-https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili.module
-#Boxjs
-https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.surge.sgmodule
