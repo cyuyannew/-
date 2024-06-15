@@ -1,0 +1,3 @@
+/Users/7air/Library/CloudStorage/OneDrive-MSFT/C/cmake-build-debug/CMakeFiles/C.dir
+/Users/7air/Library/CloudStorage/OneDrive-MSFT/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/7air/Library/CloudStorage/OneDrive-MSFT/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
