@@ -30,13 +30,11 @@
 
 // int main()
 // {
-<<<<<<< HEAD
 
-=======
     
->>>>>>> 9f89882 (提交)
+
 //     return 0;
-// }
+// };
 
 // int a = 100;  全局变量
 // int main ()
@@ -48,14 +46,30 @@
 
 // 写一个代码计算两个整数的和
 
-int main()
-{
-    int num1 = 0;
-    int num2 = 0; //初始化
-    // 输入两个整数
-    scanf ("%d %d",&num1,&num2);  //scanf是输入
-    // 求和
-    int sum = num1 + num2;
-    printf("%d\n",sum);
-    return 0;
-}
+//int main()
+//{
+//    int num1 = 0;
+//    int num2 = 0; //初始化
+//    // 输入两个整数
+//    scanf ("%d %d",&num1,&num2);  //scanf是输入
+//    // 求和
+//    int sum = num1 + num2;
+//    printf("%d\n",sum);
+//    return 0;
+//}
+//声明来自外部的符号
+//extern int  (要声明的对象，不用加括号);
+//变量的作用域和生命周期
+
+//int a = 10;
+//int main()
+//{
+//
+//    {
+//        printf("a=%d\n",a);
+//    }
+//    printf("a=%d\n",a);
+//    return 0;
+//}
+
+//变量的生命周期

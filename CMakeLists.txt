@@ -12,4 +12,5 @@ add_executable(C
         Surge/ad/Rule.list
         Surge/dingyue
         LICENSE
-        README.md)
+        README.md
+        c--/one.cpp)
