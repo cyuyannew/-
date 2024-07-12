@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 //1.字面常量
 //    30；就是这个字面常量
 //    3.14；字面浮点型的常量
@@ -62,12 +63,12 @@
 
 //字符'www'单引号  单引号是字符双引号是字符串
 //字符串的结束标志是 \0的转义字符
-//int main()
-//{
-//    char arr1[] = "abcdef";//f后还有个隐藏的 \0
-//    char arr2[] = {'a','b','c','d','e','f','\0'}; //没有结束标志 \0
-//    printf("%s\n",arr1);
-//    printf("%s\n",arr2);
-//    return 0;
-//}
+int main()
+{
+    char arr1[] = "abcdef";//f后还有个隐藏的 \0
+    char arr2[] = {'a','b','c','d','e','f','\0'}; //没有结束标志 \0
+    int len = strlen("abc");//求字符串长度的一个函数，string length, 头文件 <string.h>,有\0结束标记，数的时候不包含\0
+    printf("%d\n",len);
+    return 0;
+}
 
