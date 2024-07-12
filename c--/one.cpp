@@ -42,20 +42,32 @@
 
 //4.枚举常量
 //enum枚举的关键字
-enum Color
-{
-    //这三个可能的取值就是枚举常量
-    RED,
-    BLUE,
-    GREEN
-};
-const char* color_names[] = {"RED","BLUE","GREEN"};
-int main()
-{
-    //int num = 10;
-    enum Color color = RED;
-    enum Color MyCOLOR = BLUE;
-    printf("color = %s\n",color_names[color]);
-    printf("MyCOLOR = %s\n",color_names[MyCOLOR]);
-    return 0;
-}
+//enum Color
+//{
+//    //这三个可能的取值就是枚举常量
+//    RED,
+//    BLUE,
+//    GREEN
+//};
+//const char* color_names[] = {"RED","BLUE","GREEN"};
+//int main()
+//{
+//    //int num = 10;
+//    enum Color color = RED;
+//    enum Color MyCOLOR = BLUE;
+//    printf("color = %s\n",color_names[color]);
+//    printf("MyCOLOR = %s\n",color_names[MyCOLOR]);
+//    return 0;
+//}
+
+//字符'www'单引号  单引号是字符双引号是字符串
+//字符串的结束标志是 \0的转义字符
+//int main()
+//{
+//    char arr1[] = "abcdef";//f后还有个隐藏的 \0
+//    char arr2[] = {'a','b','c','d','e','f','\0'}; //没有结束标志 \0
+//    printf("%s\n",arr1);
+//    printf("%s\n",arr2);
+//    return 0;
+//}
+
