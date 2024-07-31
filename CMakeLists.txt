@@ -13,4 +13,6 @@ add_executable(C
         Surge/dingyue
         LICENSE
         README.md
-        c--/one.cpp)
+        c--/one.cpp
+        c++/one.cpp
+        c++/two.cpp)
