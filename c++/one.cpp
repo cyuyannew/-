@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 //1.字面常量
 //    30；就是这个字面常量
 //    3.14；字面浮点型的常量
@@ -73,14 +72,33 @@
 //}
 
 
+//int main()
+//{
+//    int a, b, c, max;
+//    scanf("%d%d%d", &a, &b, &c);
+//    if (a>b)    max = a;
+//    else    max = b;
+//    if (c>max)  max = c;
+//    printf("max = %d",max);
+//    return 0;
+//}
+
+//转义字符
+//1、 \?防止解析成三字母词 现在不用了
+//2、 \'
+//%d打印整形
+//%c打印字符
+//%s打印字符串
+//%f打印float类型的数据
+//%lf打印double类型的数据
+//3、\“
+//4、\\  用于表示一个反斜杆
 int main()
 {
-    int a, b, c, max;
-    scanf("%d%d%d", &a, &b, &c);
-    if (a>b)    max = a;
-    else    max = b;
-    if (c>max)  max = c;
-    printf("max = %d",max);
+    //printf("%s\n","dev"); 打印字符串
+    //printf("%c\n",'\''); //加\转变 ‘的意思
+    //printf("%c\n",'\"');
+    printf("abcd\\0ef"); //让\0不再是转义字符里的\，就是一个普普通通的\,可以打印出来的\
     return 0;
 }
 
