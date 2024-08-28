@@ -101,7 +101,7 @@
 //8、\ddd 表示1-3个八进制的数字，如：\130 X 八进制是0～7组成
 //9、\xdd dd表示2个十六进制的数字，如：\x30 0
 //int main()
-{
+//{
     //printf("%s\n","dev"); 打印字符串
     //printf("%c\n",'\''); //加\转变 ‘的意思
     //printf("%c\n",'\"');
@@ -113,4 +113,12 @@
     //printf("%d\n",strlen("abcd ef"));
     //printf("%d\n",strlen("c:\test\628\tset.c"));
     //return 0;
-}
+//}
+
+//注释
+/*int main()
+{
+    //创建指针变量，并赋值为NULL
+    int* p = NULL;
+    return 0;
+}*/
