@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 //1.字面常量
 //    30；就是这个字面常量
 //    3.14；字面浮点型的常量
@@ -97,9 +98,9 @@
 //5、\a 是警告符
 //6、\r是回车
 //7、\t是水平制表符是Tab
-//8、\ddd 表示1-3个八进制的数字，如：\130 X
+//8、\ddd 表示1-3个八进制的数字，如：\130 X 八进制是0～7组成
 //9、\xdd dd表示2个十六进制的数字，如：\x30 0
-int main()
+//int main()
 {
     //printf("%s\n","dev"); 打印字符串
     //printf("%c\n",'\''); //加\转变 ‘的意思
@@ -109,5 +110,7 @@ int main()
     //printf("c:\\test\\test.c"); //路径打印的时候一定是双斜杆
     //printf("%c\n",'\130');//代表 130这个八进制转换成十进制的数字
     //printf("%c\n",'\x63');
-    return 0;
+    //printf("%d\n",strlen("abcd ef"));
+    //printf("%d\n",strlen("c:\test\628\tset.c"));
+    //return 0;
 }
