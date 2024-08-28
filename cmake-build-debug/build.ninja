@@ -67,6 +67,12 @@ build CMakeFiles/__.dir/c++/three.cpp.o: CXX_COMPILER_____unscanned_Debug /Users
   OBJECT_DIR = CMakeFiles/__.dir
   OBJECT_FILE_DIR = CMakeFiles/__.dir/c++
 
+build CMakeFiles/__.dir/c++/lianxi.cpp.o: CXX_COMPILER_____unscanned_Debug /Users/SEVEN/Library/CloudStorage/OneDrive-MSFT/77/--/c++/lianxi.cpp || cmake_object_order_depends_target___
+  DEP_FILE = CMakeFiles/__.dir/c++/lianxi.cpp.o.d
+  FLAGS = -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/__.dir
+  OBJECT_FILE_DIR = CMakeFiles/__.dir/c++
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target __
@@ -75,7 +81,7 @@ build CMakeFiles/__.dir/c++/three.cpp.o: CXX_COMPILER_____unscanned_Debug /Users
 #############################################
 # Link the executable __
 
-build __: CXX_EXECUTABLE_LINKER_____Debug CMakeFiles/__.dir/c++/one.cpp.o CMakeFiles/__.dir/c++/two.cpp.o CMakeFiles/__.dir/c++/three.cpp.o
+build __: CXX_EXECUTABLE_LINKER_____Debug CMakeFiles/__.dir/c++/one.cpp.o CMakeFiles/__.dir/c++/two.cpp.o CMakeFiles/__.dir/c++/three.cpp.o CMakeFiles/__.dir/c++/lianxi.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6
   OBJECT_DIR = CMakeFiles/__.dir
   POST_BUILD = :
