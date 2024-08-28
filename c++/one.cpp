@@ -102,17 +102,17 @@
 //9、\xdd dd表示2个十六进制的数字，如：\x30 0
 //int main()
 //{
-    //printf("%s\n","dev"); 打印字符串
-    //printf("%c\n",'\''); //加\转变 ‘的意思
-    //printf("%c\n",'\"');
-    //printf("abcd\\0ef"); //让\0不再是转义字符里的\，就是一个普普通通的\,可以打印出来的斜杆
-    //printf("c:\test\test.c"); // \t也是转义字符，是水平制表符，就是键盘上的Tab
-    //printf("c:\\test\\test.c"); //路径打印的时候一定是双斜杆
-    //printf("%c\n",'\130');//代表 130这个八进制转换成十进制的数字
-    //printf("%c\n",'\x63');
-    //printf("%d\n",strlen("abcd ef"));
-    //printf("%d\n",strlen("c:\test\628\tset.c"));
-    //return 0;
+//    printf("%s\n","dev"); 打印字符串
+//    printf("%c\n",'\''); //加\转变 ‘的意思
+//    printf("%c\n",'\"');
+//    printf("abcd\\0ef"); //让\0不再是转义字符里的\，就是一个普普通通的\,可以打印出来的斜杆
+//    printf("c:\test\test.c"); // \t也是转义字符，是水平制表符，就是键盘上的Tab
+//    printf("c:\\test\\test.c"); //路径打印的时候一定是双斜杆
+//    printf("%c\n",'\130');//代表 130这个八进制转换成十进制的数字
+//    printf("%c\n",'\x44');
+//    printf("%d\n",strlen("abcd ef"));
+//    printf("%d\n",strlen("c:\test\628\tset.c"));
+//    return 0;
 //}
 
 //注释
@@ -122,3 +122,46 @@
     int* p = NULL;
     return 0;
 }*/
+
+//选择语句
+
+//int main()
+//{
+//    int input = 0;
+//    printf("加入比特\n");
+//    printf("好好学习吗(1/0)？");
+//    scanf("%d",&input);
+//    if(input == 1)
+//    {
+//        printf("好offer\n");
+//    }
+//    else
+//    {
+//        printf("卖红薯");
+//    }
+//    return 0;
+//}
+
+//循环语句
+
+//int main()
+//{
+//    int line = 0;
+//    printf("读大学\n");
+//
+//    while(line<20000)
+//    {
+//        printf("写代码%d\n", line);
+//        line++;
+//    }
+//    if("line >= 20000")
+//    {
+//        printf("好offer\n");
+//    }
+//    else
+//    {
+//        printf("好好加油\n");
+//    }
+//    return 0;
+//}
+
