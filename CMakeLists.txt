@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(__
         c++/one.cpp
         c++/two.cpp
-        c++/three.cpp)
+        c++/three.cpp
+        c++/lianxi.cpp)
