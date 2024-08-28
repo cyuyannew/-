@@ -108,6 +108,6 @@ int main()
     //printf("c:\test\test.c"); // \t也是转义字符，是水平制表符，就是键盘上的Tab
     //printf("c:\\test\\test.c"); //路径打印的时候一定是双斜杆
     //printf("%c\n",'\130');//代表 130这个八进制转换成十进制的数字
-    printf("%c\n",'\x63');
+    //printf("%c\n",'\x63');
     return 0;
 }
