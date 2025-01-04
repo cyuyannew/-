@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/__.dir/c++/one.cpp.o CMakeFiles/__.dir/c++/two.cpp.o CMakeFiles/__.dir/c++/three.cpp.o CMakeFiles/__.dir/c++/lianxi.cpp.o -o __
