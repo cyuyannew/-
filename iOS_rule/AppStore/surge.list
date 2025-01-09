@@ -1,6 +1,2 @@
 #AppStore
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
-DOMAIN-SUFFIX,downloaddispatch.itunes.apple.com
-DOMAIN-SUFFIX,xp.apple.com
