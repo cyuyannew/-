@@ -2027,3 +2027,8 @@ DOMAIN-KEYWORD,steamuserimages
 
 #AppleStore下载
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
+
+
+#GMAIL
+DOMAIN-SUFFIX,smtp.gmail.com
+DOMAIN-SUFFIX,imap.gmail.com
