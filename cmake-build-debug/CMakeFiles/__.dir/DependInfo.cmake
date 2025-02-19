@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/xiao7/Library/CloudStorage/OneDrive-MSFT/77/--/c++/lianxi.cpp" "CMakeFiles/__.dir/c++/lianxi.cpp.o" "gcc" "CMakeFiles/__.dir/c++/lianxi.cpp.o.d"
-  "/Users/xiao7/Library/CloudStorage/OneDrive-MSFT/77/--/c++/one.cpp" "CMakeFiles/__.dir/c++/one.cpp.o" "gcc" "CMakeFiles/__.dir/c++/one.cpp.o.d"
-  "/Users/xiao7/Library/CloudStorage/OneDrive-MSFT/77/--/c++/three.cpp" "CMakeFiles/__.dir/c++/three.cpp.o" "gcc" "CMakeFiles/__.dir/c++/three.cpp.o.d"
-  "/Users/xiao7/Library/CloudStorage/OneDrive-MSFT/77/--/c++/two.cpp" "CMakeFiles/__.dir/c++/two.cpp.o" "gcc" "CMakeFiles/__.dir/c++/two.cpp.o.d"
+  "/Users/xiao7/Downloads/c++/c++/lianxi.cpp" "CMakeFiles/__.dir/c++/lianxi.cpp.o" "gcc" "CMakeFiles/__.dir/c++/lianxi.cpp.o.d"
+  "/Users/xiao7/Downloads/c++/c++/one.cpp" "CMakeFiles/__.dir/c++/one.cpp.o" "gcc" "CMakeFiles/__.dir/c++/one.cpp.o.d"
+  "/Users/xiao7/Downloads/c++/c++/three.cpp" "CMakeFiles/__.dir/c++/three.cpp.o" "gcc" "CMakeFiles/__.dir/c++/three.cpp.o.d"
+  "/Users/xiao7/Downloads/c++/c++/two.cpp" "CMakeFiles/__.dir/c++/two.cpp.o" "gcc" "CMakeFiles/__.dir/c++/two.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -2032,3 +2032,10 @@ DOMAIN-SUFFIX,iosapps.itunes.apple.com
 #GMAIL
 DOMAIN-SUFFIX,smtp.gmail.com
 DOMAIN-SUFFIX,imap.gmail.com
+
+
+#ins
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-KEYWORD,instagram
