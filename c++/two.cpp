@@ -1,4 +1,28 @@
-#include<stdio.h>
+#include <stdio.h>
+#include <wchar.h>
+#include <locale.h>
+
+// 估算中文token数（按1.2系数保守计算）
+size_t estimate_tokens(const wchar_t *text) {
+    size_t chinese_count = 0;
+    for (; *text; ++text) {
+        // 判断Unicode中文范围（基本区+扩展A区）
+        if ((*text >= 0x4E00 && *text <= 0x9FFF) ||
+            (*text >= 0x3400 && *text <= 0x4DBF)) {
+            chinese_count++;
+            }
+    }
+    return (size_t)(chinese_count * 1.2);
+}
+
+int main() {
+    setlocale(LC_ALL, ""); // 设置本地化支持宽字符
+    const wchar_t *text = L"Dee能处理多少中文？";
+
+    size_t tokens = estimate_tokens(text);
+    wprintf(L"文本: %ls\n估算token数: %zu\n", text, tokens);
+    return 0;
+}
 // int main()
 // {
 //     printf("%d\n",sizeof(char));
