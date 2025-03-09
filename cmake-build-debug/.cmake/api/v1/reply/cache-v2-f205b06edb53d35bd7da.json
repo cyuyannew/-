@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/xiao7/Library/CloudStorage/OneDrive-\u4e2a\u4eba/77/c++/cmake-build-debug"
+			"value" : "/Users/xiao7/Library/CloudStorage/OneDrive-\u4e2a\u4eba/77/C++/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/xiao7/Library/CloudStorage/OneDrive-\u4e2a\u4eba/77/c++/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/xiao7/Library/CloudStorage/OneDrive-\u4e2a\u4eba/77/C++/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -1131,7 +1131,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/xiao7/Library/CloudStorage/OneDrive-\u4e2a\u4eba/77/c++/cmake-build-debug"
+			"value" : "/Users/xiao7/Library/CloudStorage/OneDrive-\u4e2a\u4eba/77/C++/cmake-build-debug"
 		},
 		{
 			"name" : "___IS_TOP_LEVEL",
@@ -1155,7 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/xiao7/Library/CloudStorage/OneDrive-\u4e2a\u4eba/77/c++"
+			"value" : "/Users/xiao7/Library/CloudStorage/OneDrive-\u4e2a\u4eba/77/C++"
 		}
 	],
 	"kind" : "cache",

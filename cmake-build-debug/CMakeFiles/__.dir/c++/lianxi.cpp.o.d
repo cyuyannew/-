@@ -1,5 +1,5 @@
 CMakeFiles/__.dir/c++/lianxi.cpp.o: \
-  /Users/xiao7/Downloads/c++/c++/lianxi.cpp \
+  /Users/xiao7/Library/CloudStorage/OneDrive-个人/77/C++/c++/lianxi.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__config_site \

@@ -2045,3 +2045,6 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,platform.deepseek.com
 DOMAIN-SUFFIX,chat.deepseek.com
 DOMAIN-KEYWORD,volces.com
+
+//siri
+DOMAIN-SUFFIX,guzzoni.smoot.apple.com
