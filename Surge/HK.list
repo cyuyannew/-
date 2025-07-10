@@ -2041,14 +2041,6 @@ DOMAIN-SUFFIX,instagram.com
 DOMAIN-KEYWORD,instagram
 
 
-//deepseek
-DOMAIN-SUFFIX,platform.deepseek.com
-DOMAIN-SUFFIX,chat.deepseek.com
-DOMAIN-KEYWORD,volces.com
-
-//siri
-DOMAIN-SUFFIX,guzzoni.smoot.apple.com
-
 //alipayhk
 DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,alipay-corp.com
@@ -2071,4 +2063,3 @@ DOMAIN-SUFFIX,alipayplus.com
 DOMAIN-SUFFIX,ifaa.org.cn
 DOMAIN-SUFFIX,luohanacademy.com
 DOMAIN-SUFFIX,sinopayment.com.cn
-

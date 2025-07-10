@@ -58,3 +58,12 @@ DOMAIN-KEYWORD,generativelanguage
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+
+
+//deepseek
+DOMAIN-SUFFIX,platform.deepseek.com
+DOMAIN-SUFFIX,chat.deepseek.com
+DOMAIN-KEYWORD,volces.com
+
+//siri
+DOMAIN-SUFFIX,guzzoni.smoot.apple.com
