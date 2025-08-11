@@ -2044,3 +2044,9 @@ DOMAIN-KEYWORD,instagram
 #douyin ip
 DOMAIN-SUFFIX, amemv.com
 DOMAIN-SUFFIX, douyinvod.com
+
+#xiaohongshu
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.com
