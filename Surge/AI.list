@@ -67,6 +67,10 @@ DOMAIN-KEYWORD,volces.com
 
 //siri
 DOMAIN-SUFFIX,guzzoni.smoot.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN, gspe1-ssl.ls.apple.com
 
 //truthsocial
 DOMAIN-SUFFIX,truthsocial.com
